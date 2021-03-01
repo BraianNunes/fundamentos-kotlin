@@ -9,6 +9,10 @@ fun main(args: Array<String>) {
     // Var representa uma referência mutável
     var name2: String
     name2 = "Braian"
+
+    var age = 21
+    age = 31
+    println(age)
 }
 
 
